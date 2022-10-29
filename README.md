@@ -1,4 +1,4 @@
-# ML-Roadmap-
+# ML-Roadmap
 
 A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML landscape in 6 months
 Levels of Learning
