@@ -15,8 +15,8 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 4.	    - Lecture 1 - https://www.youtube.com/watch?v=1s869EfxoDo
 5.	    - Lecture 2 - https://www.youtube.com/watch?v=8To-A6VPL90
 6.	 3. Advance Topics
-7.	    - File Handling - https://www.youtube.com/watch?v=ixEeeNjjOJ0
-8.	    - Exception Handling - https://www.youtube.com/watch?v=NIWwJbo-9_8
+7.	     File Handling - https://www.youtube.com/watch?v=ixEeeNjjOJ0
+8.	     Exception Handling - https://www.youtube.com/watch?v=NIWwJbo-9_8
 9.	    - Regular Expressions - https://www.youtube.com/watch?v=K8L6KVGG-7o
 10.	    - Functional Programming - https://www.youtube.com/watch?v=SvK_GErE2nM
 11.	    - Basics of Flask - https://www.youtube.com/watch?v=swHI1H7DVsQ
